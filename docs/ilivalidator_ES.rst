@@ -16,7 +16,7 @@ Existen las siguientes opciones de configuración:
 Requisitos de sistema 
 ---------------------
 
-El programa requiere Java 1.6.
+El programa requiere Java 1.8.
 
 Licencia
 --------
