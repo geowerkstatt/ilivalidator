@@ -13,7 +13,7 @@ ilivalidator is licensed under the LGPL (Lesser GNU Public License).
 - stable branch [![build status](https://www.travis-ci.org/claeis/ilivalidator.svg?branch=stable)](https://www.travis-ci.org/claeis/ilivalidator)
 
 ## System Requirements
-For the current version of ilivalidator, you will need a JRE (Java Runtime Environment) installed on your system, version 1.6 or later. Any OpenJDK based JRE will do.
+For the current version of ilivalidator, you will need a JRE (Java Runtime Environment) installed on your system, version 1.8 or later. Any OpenJDK based JRE will do.
 The JRE (Java Runtime Environment) can be downloaded from the Website <http://www.java.com/>.
 
 ## Software Download 
@@ -37,7 +37,7 @@ To build a binary distribution, use
     gradle bindist
 
 ### Development dependencies
-* JDK 1.6 or higher (OpenJDK will do)
+* JDK 1.8 or higher (OpenJDK will do)
 * Gradle
 * Python and docutils installed (`pip install docutils`)
     * rst2html command is used by `userdoc` gradle task

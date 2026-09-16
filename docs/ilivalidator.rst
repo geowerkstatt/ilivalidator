@@ -46,7 +46,7 @@ Fehler wird aber in der Regel schon früher ausgegeben.::
 Laufzeitanforderungen
 ---------------------
 
-Das Programm setzt Java 1.6 voraus.
+Das Programm setzt Java 1.8 voraus.
 
 Zur Validierung wird RAM benötigt. Für eine typische Transferdatei sollten 
 ca. 2 GB RAM ausreichen. Am Anfang des Logs steht, wieviel RAM (heapspace) 
